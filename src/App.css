@@ -1,0 +1,108 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 0;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #183b56;
+  margin-bottom: 30px;
+}
+
+.face-book {
+  color: black;
+}
+
+.banner-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px;
+  background-color: lightgrey;
+}
+
+.mountain {
+  height: 300px;
+  width: 350px;
+}
+
+.book-icon {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+
+.content-container {
+  margin: 20px;
+}
+
+.about-us {
+  background-color: lightgrey;
+  padding: 30px;
+}
+
+.discover {
+  text-align: center;
+}
+
+.service-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.discover-section {
+  display: flex;
+  margin: 30px;
+  justify-content: space-evenly;
+}
+
+.river {
+  height: 300px;
+  width: 400px;
+}
+
+.discover-card-container {
+  height: 300px;
+  width: 300px;
+  box-shadow: 0px 0px 12px cadetblue;
+  border: 2px solid cadetblue;
+  margin-bottom: 40px;
+  list-style-type: none;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.book-button {
+  text-align: center;
+  height: 40px;
+  width: 90px;
+  color: white;
+  background-color: darkcyan;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.location-button {
+  text-align: center;
+  height: 40px;
+  width: 90px;
+  color: white;
+  background-color: darkcyan;
+  border-radius: 5px;
+  border-width: 0px;
+}
